@@ -1,4 +1,4 @@
-转载自：https://github.com/astarring/mybatis-generator-gui
+转载自：https://github.com/astarring/mybatis-generator-gui （亲测可用）
 
 mybatis-generator-gui
 ==============
